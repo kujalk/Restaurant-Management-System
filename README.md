@@ -59,3 +59,5 @@ h) Change Password - Used to change password
 Note -
 If you are unable to view any images in the windows forms, then I recommend to copy all of the images in the 
 "Images used in our project" folder to other folder "Project - Future Foods Restaurant "
+
+Developer - K.Janarthanan
