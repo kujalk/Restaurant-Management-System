@@ -6,9 +6,13 @@ About this Project
 1. You will require a user ID and Password to login into the system
 
 (For this,
+
 a) Create all the tables in the database (Refer Database Schema.txt provided)
+
 b) Add a sample value into login table
+
 c) Use that value to login into system
+
 )
 
 2. Before Login, the user can see about our restaurant details using "About" button.
@@ -35,6 +39,7 @@ equal to Rs. 1000/=, on every Thursday.)
 10. Print Bill - used to print bill in crystal report
 
 Summary of forms -
+
 a) Customer Info - Used to Add,Delete,Edit,View,Search records related to Customer
 
 b) Staff Info - Used to Add,Delete,View,Search records related to Staff
